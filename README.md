@@ -3,9 +3,10 @@
 
 - 🌌 **I'm beginer backend developer.**
 - 🎓 **I am currently studying at the university in the 1st year at the faculty "Computer science and engineering".**
-### Social network
 
+### Social network
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](@shnyk3)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@Lase1125199) 
 
 ### Skills
 <p align="left">
