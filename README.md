@@ -12,4 +12,4 @@
 ### My Statistics
 <a href="https://github.com/ssqwet1324" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssqwet1324&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Most Used Languages" /></a>
 
-<a href="http://www.github.com/ssqwet1324"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=ssqwet1324&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/ssqwet1324"><img src="https://github-readme-stats.vercel.app/api?username=ssqwet1324&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ssqwet1324's GitHub stats" /></a>
