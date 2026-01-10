@@ -9,12 +9,6 @@
     I'm a <strong>Junior+ Golang Backend Developer</strong> building scalable backend services, designing RESTful APIs, and working with distributed systems.<br>
     2nd-year Computer Science and Engineering student, constantly learning new technologies.
   </p>
-  
-<!-- Tech Stack -->
-  <h3>💻 Tech Stack</h3>
-  <p>
-    Golang, PostgreSQL, Redis, Apache Kafka, Docker, Prometheus, Grafana
-  </p>
 
   <!-- Social -->
   <p>
