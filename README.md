@@ -1,9 +1,10 @@
 ## Hi there 👋
 ### About me:
 
-- 🌌 **I'm beginer backend developer.**
-- 🎓 **I am currently studying at the university in the 1st year at the faculty "Computer science and engineering".**
-- 👨‍💻 **Technology stack: PosthreSQL, Redis, Apache Kafka, Gin, Docker ....
+- 🌌 **I'm a junior+ Golang backend developer.**
+- 🎓 **I'm a 2nd-year Computer Science and Engineering student at university.**
+- 👨‍💻 **👨‍💻 Technology stack: Golang, Gin framework, PostgreSQL, Redis, Apache Kafka, Docker, Prometheus, Grafana  
+I build backend services in Go using the Gin framework, develop RESTful APIs, and integrate PostgreSQL, Redis, and Apache Kafka.**
 
 ### 📞Social network
 [<img src='https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg' alt='telegram' height='40'>](https://t.me/shnyk3)  [<img src='https://upload.wikimedia.org/wikipedia/commons/c/ce/X_logo_2023.svg' alt='twitter' height='40'>](https://twitter.com/@Lase1125199) 
