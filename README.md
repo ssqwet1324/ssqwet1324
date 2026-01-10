@@ -47,22 +47,3 @@
 </div>
 
 <br>
-
-<h3 align="center">📊 GitHub Statistics</h3>
-
-<div align="center">
-
-  <!-- Общая статистика -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ssqwet1324&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-
-  <!-- Статистика языков -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssqwet1324&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165" />
-
-</div>
-
-<br>
-
-<!-- Статистика активности (streak) -->
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=ssqwet1324&theme=tokyonight&hide_border=true" />
-</div>
