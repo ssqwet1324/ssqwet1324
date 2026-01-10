@@ -43,7 +43,3 @@
   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
 
 </div>
-
-<br>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=ssqwet1324&theme=dark)](https://git.io/streak-stats)
