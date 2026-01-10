@@ -5,9 +5,15 @@
 
   <h3>Building scalable backend services with Go 🚀</h3>
 
+   <p>
+    I'm a <strong>Junior+ Golang Backend Developer</strong> building scalable backend services, designing RESTful APIs, and working with distributed systems.<br>
+    2nd-year Computer Science and Engineering student, constantly learning new technologies.
+  </p>
+  
+<!-- Tech Stack -->
+  <h3>💻 Tech Stack</h3>
   <p>
-    I build backend services in Go, design RESTful APIs, and work with distributed systems.<br>
-    2nd-year Computer Science and Engineering student.
+    Golang, PostgreSQL, Redis, Apache Kafka, Docker, Prometheus, Grafana
   </p>
 
   <!-- Social -->
