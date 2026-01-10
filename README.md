@@ -3,7 +3,7 @@
 
 - 🌌 **I'm a junior+ Golang backend developer.**
 - 🎓 **I'm a 2nd-year Computer Science and Engineering student at university.**
-- 👨‍💻 **👨‍💻 Technology stack: Golang, Gin framework, PostgreSQL, Redis, Apache Kafka, Docker, Prometheus, Grafana  
+- 👨‍💻 **Technology stack: Golang, Gin framework, PostgreSQL, Redis, Apache Kafka, Docker, Prometheus, Grafana  
 I build backend services in Go using the Gin framework, develop RESTful APIs, and integrate PostgreSQL, Redis, and Apache Kafka.**
 
 ### 📞Social network
