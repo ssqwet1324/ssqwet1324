@@ -1,18 +1,53 @@
-## Hi there 👋
-### About me:
+<div align="center">
 
-- 🌌 **I'm a junior+ Golang backend developer.**
-- 🎓 **I'm a 2nd-year Computer Science and Engineering student at university.**
-- 👨‍💻 **Technology stack: Golang, Gin framework, PostgreSQL, Redis, Apache Kafka, Docker, Prometheus, Grafana  
-I build backend services in Go using the Gin framework, develop RESTful APIs, and integrate PostgreSQL, Redis, and Apache Kafka.**
+# Golang Backend Developer
 
-### 📞Social network
-[<img src='https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg' alt='telegram' height='40'>](https://t.me/shnyk3)  [<img src='https://upload.wikimedia.org/wikipedia/commons/c/ce/X_logo_2023.svg' alt='twitter' height='40'>](https://twitter.com/@Lase1125199) 
+Junior+ Go backend developer and 2nd-year Computer Science student.  
+Building backend services, REST APIs, and infrastructure around databases, caching, and messaging.
 
-### ⭐Skills
-<p align="left">
-<a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
-</p>
+<a href="https://t.me/shnyk3" target="_blank">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+</a>
+<a href="https://twitter.com/Lase1125199" target="_blank">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+</a>
 
-### 📊My Statistics
-<a href="https://github.com/ssqwet1324" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssqwet1324&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Most Used Languages" /></a>
+</div>
+
+## About
+- Focus: Golang backend, microservices, integration, monitoring.
+- Interested in: clean architecture, performance, reliability, observability.
+- Open to: internships/junior backend roles, team projects.
+
+## Tech stack
+**Backend**
+- Go, Gin
+- REST APIs
+
+**Data & Messaging**
+- PostgreSQL
+- Redis
+- Apache Kafka
+
+**DevOps & Observability**
+- Docker, Docker Compose
+- Prometheus, Grafana
+
+## Projects
+Pinned repositories are the best place to start.
+
+- **Project name** — 1 line what it does  
+  Stack: Go, PostgreSQL, Redis, Kafka  
+  Highlights: auth, RBAC, tracing/metrics, async workers  
+  Repo: https://github.com/<username>/<repo>
+
+- **Project name** — 1 line what it does  
+  Stack: Go, Gin, PostgreSQL  
+  Highlights: clean architecture, tests, CI  
+  Repo: https://github.com/<username>/<repo>
+
+## GitHub stats
+<div align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=ssqwet1324&show_icons=true&hide_border=true&theme=tokyonight" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssqwet1324&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" />
+</div>
