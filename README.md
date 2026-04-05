@@ -6,7 +6,7 @@
   <h3>About me🚀</h3>
 
    <p>
-    I'm a <strong>Junior+ Golang Backend Developer</strong> building scalable backend services, designing RESTful APIs, and working with distributed systems.<br>
+    I'm Golang Backend Developer</strong> building scalable backend services, designing RESTful APIs, and working with distributed systems.<br>
     2nd-year Computer Science and Engineering student, constantly learning new technologies.
   </p>
 
