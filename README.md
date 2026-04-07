@@ -1,3 +1,4 @@
+<div align="center">
   <!-- Social -->
   <p>
     <a href="https://twitter.com/Lase1125199" target="_blank">
