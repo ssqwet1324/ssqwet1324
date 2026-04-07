@@ -1,15 +1,3 @@
-<div align="center">
-
-  <!-- Typing header -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=700&color=38BDF8&center=true&vCenter=true&width=800&lines=Hi+there!+👋;I'm+a+Golang+Backend+Developer;Student+%26+Tech+Enthusiast" alt="Typing SVG" />
-
-  <h3>About me🚀</h3>
-
-   <p>
-    I'm Golang Backend Developer</strong> building scalable backend services, designing RESTful APIs, and working with distributed systems.<br>
-    2nd-year Computer Science and Engineering student, constantly learning new technologies.
-  </p>
-
   <!-- Social -->
   <p>
     <a href="https://twitter.com/Lase1125199" target="_blank">
